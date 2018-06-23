@@ -1,0 +1,13 @@
+project structure
+   xyz
+      server.js
+      pakage.json
+      /config - config.json (keys etc) 
+      /models
+      /routes - routes.js
+      /src
+      /dist
+
+
+ express:
+    framework of node.     
