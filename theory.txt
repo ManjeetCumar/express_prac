@@ -5,8 +5,9 @@ project structure
       /config - config.json (keys etc) 
       /models
       /routes - routes.js
-      /src
-      /dist
+      /src - source code in readable/writable form
+      /dist - distributable ( contains files that can be directly used by others - minified/concatenated
+              version actually used on production sites)   
 
 
  express:
